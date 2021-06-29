@@ -1,0 +1,1 @@
+# kindle_how_to_instlal_in_linux
